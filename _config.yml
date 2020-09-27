@@ -1,10 +1,10 @@
 title: AVERtek # your name photo (or website title) here
 logo: "/images/New XR-ASAP logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  **View 3D Image:** <br>
+  ## View 3D Image: ## <br>
     Use Pointer to rotate, spin; Use zoom to scale
   <br><br>
-  **View in Augmented Reality (AR):** <br>
+  ## View in Augmented Reality (AR): ## <br>
     Press AR button below object, place image in real space, anchor on surface, scale and view 
   <br><br>
   <a href="https://AVERtek.net/xr-asap-1/">Learn About XR-ASAP</a> 
