@@ -4,7 +4,7 @@
 
 ### 3D Model Display
 
-[Project 1 Title](/sample_page)
+[OSI Builkding Brands; Growing Business](/sample_page)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
