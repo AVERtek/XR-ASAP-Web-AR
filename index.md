@@ -1,8 +1,8 @@
-## Portfolio
+## ONE SOURCE INDUSTRIES, LLC. 
 
 ---
 
-### SIF Display
+### 3D Model Display
 
 [Project 1 Title](/sample_page)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
