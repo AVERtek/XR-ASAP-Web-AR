@@ -4,7 +4,7 @@
 
 ### 3D Model Display
 
-[OSI Building Brands; Growing Business](/https://samplepage/)
+[OSI Building Brands; Growing Business](/https://osicreative.com/)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
